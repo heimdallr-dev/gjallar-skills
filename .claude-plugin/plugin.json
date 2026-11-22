@@ -1,0 +1,10 @@
+{
+  "name": "gjallar",
+  "version": "0.1.0",
+  "description": "Gjallar skills: the Gjallar Philosophy, triage with Gjallar's tools, and contributing rules.",
+  "author": { "name": "heimdallr-dev" },
+  "homepage": "https://github.com/heimdallr-dev/gjallar-skills",
+  "repository": "https://github.com/heimdallr-dev/gjallar-skills",
+  "license": "Apache-2.0",
+  "keywords": ["security", "kubernetes", "vulnerability", "sbom", "philosophy"]
+}

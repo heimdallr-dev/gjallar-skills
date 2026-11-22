@@ -1,0 +1,14 @@
+{
+  "name": "heimdallr-dev",
+  "owner": {
+    "name": "heimdallr-dev"
+  },
+  "plugins": [
+    {
+      "name": "gjallar",
+      "source": "./",
+      "description": "Gjallar skills: the Gjallar Philosophy, triage with Gjallar's tools, and contributing rules."
+    }
+  ],
+  "description": "Skills for working with and on Gjallar, the Kubernetes risk platform built on security without chains."
+}
